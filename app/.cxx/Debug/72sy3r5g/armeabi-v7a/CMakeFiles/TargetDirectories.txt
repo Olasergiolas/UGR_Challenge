@@ -1,0 +1,3 @@
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/.cxx/Debug/72sy3r5g/armeabi-v7a/CMakeFiles/nativetest.dir
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/.cxx/Debug/72sy3r5g/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/.cxx/Debug/72sy3r5g/armeabi-v7a/CMakeFiles/rebuild_cache.dir

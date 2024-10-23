@@ -1,0 +1,3 @@
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/.cxx/RelWithDebInfo/26b83454/arm64-v8a/CMakeFiles/nativetest.dir
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/.cxx/RelWithDebInfo/26b83454/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/.cxx/RelWithDebInfo/26b83454/arm64-v8a/CMakeFiles/rebuild_cache.dir

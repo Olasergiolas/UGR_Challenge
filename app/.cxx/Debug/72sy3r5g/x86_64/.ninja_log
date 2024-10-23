@@ -1,0 +1,4 @@
+# ninja log v5
+0	23	1729540295838429799	CMakeFiles/nativetest.dir/rc4.c.o	22266883f39234cb
+0	32	1729540295845096515	CMakeFiles/nativetest.dir/native-lib.c.o	e371361f63471953
+32	57	1729540295868430019	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/x86_64/libnativetest.so	104e6a341e297b8

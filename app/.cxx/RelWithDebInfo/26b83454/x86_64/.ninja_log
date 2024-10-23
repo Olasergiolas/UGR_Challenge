@@ -1,0 +1,10 @@
+# ninja log v5
+0	45	1729610676361732437	CMakeFiles/nativetest.dir/native-lib.c.o	43d263901c5fb0e5
+45	75	1729610676391732589	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/RelWithDebInfo/26b83454/obj/x86_64/libnativetest.so	6cd8d9a10116ec10
+0	31	1729540387422921060	CMakeFiles/nativetest.dir/rc4.c.o	c4d94f5d124c49bc
+0	31	1729611269015609850	CMakeFiles/nativetest.dir/rc4.c.o	c6d883d3220c78ab
+0	44	1729611269028943292	CMakeFiles/nativetest.dir/native-lib.c.o	32eb6d7be177720b
+44	67	1729611269052276814	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/RelWithDebInfo/26b83454/obj/x86_64/libnativetest.so	40adc7e82762b6b
+1	33	1729705019665886846	CMakeFiles/nativetest.dir/rc4.c.o	c6d883d3220c78ab
+1	45	1729705019679220200	CMakeFiles/nativetest.dir/native-lib.c.o	32eb6d7be177720b
+45	72	1729705019702553570	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/RelWithDebInfo/26b83454/obj/x86_64/libnativetest.so	40adc7e82762b6b

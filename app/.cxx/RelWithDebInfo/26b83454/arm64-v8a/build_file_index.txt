@@ -1,0 +1,1 @@
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/src/main/cpp/CMakeLists.txt

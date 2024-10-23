@@ -1,0 +1,24 @@
+# ninja log v5
+1	41	1729540295145091397	CMakeFiles/nativetest.dir/native-lib.c.o	6d835d954be05fb6
+41	72	1729540295175091616	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	6d26fc778445acf0
+0	414	1729361775053873874	CMakeFiles/nativetest.dir/native-lib.cpp.o	49c873e173801ed8
+1	32	1729536089795114756	CMakeFiles/nativetest.dir/rc4.c.o	4aa5e5e4fb968fff
+0	23	1729611087573903155	CMakeFiles/nativetest.dir/rc4.c.o	57212576a808adce
+0	32	1729611087580569896	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+32	56	1729611087603903487	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	33	1729611160787990097	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+33	56	1729611160811323655	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	33	1729611715321894547	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+34	59	1729611715345228015	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	118	1729703395284402855	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+118	189	1729703395354404023	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	38	1729703564784916734	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+38	68	1729703564814916629	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	39	1729703919760288516	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+39	65	1729703919786955438	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	32	1729704122801588749	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+32	57	1729704122824922216	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	54	1729704202138753590	CMakeFiles/nativetest.dir/native-lib.c.o	56a2008b5eb3883d
+54	91	1729704202175420505	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1
+0	39	1729704940031827842	CMakeFiles/nativetest.dir/rc4.c.o	57212576a808adce
+39	75	1729704940065161491	/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/Debug/72sy3r5g/obj/arm64-v8a/libnativetest.so	16c1753a0cfd02e1

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/flag_field"
+        android:layout_width="297dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="102dp"
+        android:layout_marginEnd="103dp"
+        android:layout_marginBottom="228dp"
+        android:ems="10"
+        android:hint="Enter your flag"
+        android:inputType="text"
+        android:maxLength="256"
+        android:singleLine="true"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/btn1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="160dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginEnd="149dp"
+        android:backgroundTint="#D32F2F"
+        android:text="Check flag!"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.87" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="650dp"
+        android:layout_height="426dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="176dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/jtsec_logo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

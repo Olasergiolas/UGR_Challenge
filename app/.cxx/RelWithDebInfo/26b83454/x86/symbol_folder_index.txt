@@ -1,0 +1,1 @@
+/home/sgarcia/AndroidStudioProjects/NativeTest/app/build/intermediates/cxx/RelWithDebInfo/26b83454/obj/x86
